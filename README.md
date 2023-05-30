@@ -1,2 +1,2 @@
 # Isn-Underwater-pool
-Creation d'une jeux 2d en groupe  sous python avec une librairie qui se nomme pygame 
+Creation d'un jeu 2d sous python avec une librairie qui se nomme pygame 
